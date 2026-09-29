@@ -1,16 +1,32 @@
-## Hi there 👋
+# Gabriel Mendes
 
-<!--
-**gabriell-mendes/gabriell-mendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **Websites & Automações com IA** | Dev @Eng2tech | 18 anos | Salvador, Brazil
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+Sou desenvolvedor especializado em criar **websites funcionais** e **automações inteligentes** usando IA. Tenho facilidade para aprender rapidamente e sou apaixonado por transformar ideias em soluções reais.
+
+## Stack
+- **Languages:** Python, JavaScript, HTML/CSS
+- - **Ferramentas IA:** Claude (Anthropic), ChatGPT
+  - - **Especialidade:** Websites + Automações com IA
+   
+    - ## O que faço
+    - ✅ **Websites** — Landing pages, portfólios, e-commerce
+    - ✅ **Automações** — Scripts Python, bots, web scraping
+    - ✅ **Consultoria IA** — Ajudo você a usar IA pra produzir código
+   
+    - ## Estou procurando por
+    - - Freelancers interessados em trabalhar com IA
+      - - Oportunidades para aprender ainda mais
+        - - Projetos legais pra colocar no portfólio
+         
+          - ---
+
+          **Vamos conversar?**
+          - 📧 Entre em contato comigo
+          - - 💼 LinkedIn: linkedin.com/in/gabriell-mendes
+            - - 📱 Whatsapp: 71 99xxx-xxxx
+             
+              - *Documentando meu crescimento em desenvolvimento aqui. 🚀*
