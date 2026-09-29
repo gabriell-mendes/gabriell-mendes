@@ -1,6 +1,6 @@
 # Gabriel Mendes
 
-👨‍💻 **Websites & Automações com IA** | Dev @Eng2tech | 18 anos | Salvador, Brazil
+👨‍💻 **Websites & Automações com IA** | Dev @Eng2tech | Cursando Engenha de Software (2º semestre) | 18 anos | Salvador, Brasil
 
 ---
 
@@ -8,14 +8,12 @@
 Sou desenvolvedor especializado em criar **websites funcionais** e **automações inteligentes** usando IA. Tenho facilidade para aprender rapidamente e sou apaixonado por transformar ideias em soluções reais.
 
 ## Stack
-- **Languages:** Python, JavaScript, HTML/CSS
-- - **Ferramentas IA:** Claude (Anthropic), ChatGPT
+- **Stack:** Python, JavaScript, HTML/CSS + IA tools (Claude)
   - - **Especialidade:** Websites + Automações com IA
    
     - ## O que faço
-    - ✅ **Websites** — Landing pages, portfólios, e-commerce
-    - ✅ **Automações** — Scripts Python, bots, web scraping
-    - ✅ **Consultoria IA** — Ajudo você a usar IA pra produzir código
+    - ✅ **Websites** -> Landing pages, portfólios, e-commerce
+    - ✅ **Automações** -> Scripts Python, bots, web scraping
    
     - ## Estou procurando por
     - - Freelancers interessados em trabalhar com IA
@@ -27,6 +25,6 @@ Sou desenvolvedor especializado em criar **websites funcionais** e **automaçõe
           **Vamos conversar?**
           - 📧 Entre em contato comigo
           - - 💼 LinkedIn: linkedin.com/in/gabriell-mendes
-            - - 📱 Whatsapp: 71 99xxx-xxxx
+            - - 📱 Whatsapp: 75 983631710
              
               - *Documentando meu crescimento em desenvolvimento aqui. 🚀*
