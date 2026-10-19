@@ -8,7 +8,7 @@
 Sou desenvolvedor especializado em criar **websites funcionais** e **automações inteligentes** usando IA. Tenho facilidade para aprender rapidamente e sou apaixonado por transformar ideias em soluções reais.
 
 ## Stack
-- **Stack:** Python, JavaScript, HTML/CSS + IA tools (Claude)
+- **Stack:** Python, JavaScript + IA tools (Claude)
   - - **Especialidade:** Websites + Automações com IA
    
     - ## O que faço
