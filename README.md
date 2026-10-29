@@ -8,7 +8,7 @@
 Sou desenvolvedor especializado em criar **websites funcionais** e **automações inteligentes** usando IA. Tenho facilidade para aprender rapidamente e sou apaixonado por transformar ideias em soluções reais.
 
 ## Stack
-- **Stack:** Python, JavaScript + IA tools (Claude)
+- **Stack:**TypeScript | Next.js | Python | PostgreSQL | Docker + IA
   - - **Especialidade:** Websites + Automações com IA
    
     - ## O que faço
@@ -17,12 +17,10 @@ Sou desenvolvedor especializado em criar **websites funcionais** e **automaçõe
    
     - ## Estou procurando por
     - - Freelancers interessados em trabalhar com IA
-      - - Oportunidades para aprender ainda mais
         - - Projetos pra colocar no portfólio
          
           - ---
 
-          **Vamos conversar?**
           - 📧 Entre em contato comigo
           - - 💼 LinkedIn: linkedin.com/in/gabriell-mendes
             - - 📱 Whatsapp: 71 984263111
