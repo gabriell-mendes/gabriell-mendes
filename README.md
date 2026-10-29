@@ -18,13 +18,13 @@ Sou desenvolvedor especializado em criar **websites funcionais** e **automaçõe
     - ## Estou procurando por
     - - Freelancers interessados em trabalhar com IA
       - - Oportunidades para aprender ainda mais
-        - - Projetos legais pra colocar no portfólio
+        - - Projetos pra colocar no portfólio
          
           - ---
 
           **Vamos conversar?**
           - 📧 Entre em contato comigo
           - - 💼 LinkedIn: linkedin.com/in/gabriell-mendes
-            - - 📱 Whatsapp: 75 983631710
+            - - 📱 Whatsapp: 71 984263111
              
               - *Documentando meu crescimento em desenvolvimento aqui. 🚀*
