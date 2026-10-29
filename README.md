@@ -1,6 +1,6 @@
 # Gabriel Mendes
 
-👨‍💻 **Websites & Automações com IA** | Dev @Eng2tech | Cursando Engenha de Software (2º semestre) | 18 anos | Salvador, Brasil
+👨‍💻 **Websites & Automações com IA** | Dev @Eng2tech | Cursando Engenharia de Software (2º semestre) | 18 anos | Salvador, Brasil
 
 ---
 
